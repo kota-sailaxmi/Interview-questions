@@ -1,0 +1,20 @@
+1.What are mutable and immutable datatypes?
+2.Can a list inside a tuple be edited?
+3.What is a sequence?
+4.What keyword is used to end loop?
+5.What module is used for generating random values?
+6.What keyword is used to skip back to beginning of loop?
+7.What is range?
+8.Explain None type?
+9.Is set ordered?
+10.Difference between set and frozenset?
+11.What is pass and continue ?
+12.What are modules and packages?
+13.Explain slicing ?
+14.What is negative indexing?
+15.Can a function be reused?
+16.Do functions reduce time complexity of the program?
+17.Do functions always return a value?
+18.keyword used for functions?
+19.Two main parts of every function?
+20.Difference between parameter and argument?
